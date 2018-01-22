@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-printf("%s","Harshit");
+printf("%s","Alpha is cool");
 return 0;
 }
 
